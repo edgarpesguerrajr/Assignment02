@@ -1,0 +1,7 @@
+name_str = input('Enter your name: ')
+age_str = input('Enter your age: ')
+address_str = input('Enter your address: ')
+name = (name_str)
+age = int(age_str)
+address = (address_str)
+print(f'Hi, my name is {name}. I am {age} years old and I live in {address}. ')
